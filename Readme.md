@@ -7,7 +7,7 @@
 
 |Day Time|Night Time|
 |-----|-----|
-|![ON](Components\On.png)|![OFF](Components\Off.png)|
+|![ON](Components/On.png)|![OFF](Components/Off.png)|
 
 ## **Demo**
 
